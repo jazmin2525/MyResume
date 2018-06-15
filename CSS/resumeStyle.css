@@ -1,0 +1,46 @@
+.top{
+  background-color:cadetblue;   
+}
+
+a{
+    color: gainsboro;
+    text-decoration: underline;   
+}
+
+hr.style1{
+    border-top: 1px solid #000000;   
+}
+
+.headline{
+    font-size: 1em;
+    font-weight: bold;
+    text-shadow: 2px 1px #5b8c86;
+    letter-spacing: 2px;
+    padding-bottom: 1em;
+}
+
+.resumeSec{
+    padding-left: 1em;
+   
+}
+.title{
+    font-weight: bold;    
+}
+
+.link{
+    color: cadetblue;
+    text-decoration: underline; 
+    font-weight: 500;
+}
+.lang{
+    margin-bottom: -0.25em;
+    margin-left: 2em;  
+}
+.pic{
+  
+    margin-bottom: 15%;
+    margin-left: 5%;    
+}
+.caption{
+    margin-right: 20%;    
+}

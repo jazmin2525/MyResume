@@ -44,3 +44,27 @@ hr.style1{
 .caption{
     margin-right: 20%;    
 }
+
+.nav-link{
+    font-size: x-large;  
+    letter-spacing: 0.15em;
+    
+}
+.name{
+    font-size: 2em;
+    letter-spacing: 0.15em;
+    word-spacing: 1em;
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+.dropdown-container {
+  position: relative;
+  margin-right: 5%;
+}
+.dropdown-menu {
+  position: absolute;
+  top: 100%; 
+  right: 0;
+  margin-left: -1em; /* More to the left */
+}

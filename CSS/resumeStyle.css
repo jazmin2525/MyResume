@@ -12,11 +12,12 @@ hr.style1{
 }
 
 .headline{
-    font-size: 1em;
+    font-size: 1.5em;
     font-weight: bold;
-    text-shadow: 2px 1px #5b8c86;
     letter-spacing: 2px;
     padding-bottom: 1em;
+    margin-left: 1em;
+    
 }
 
 .resumeSec{
@@ -38,18 +39,20 @@ hr.style1{
 }
 .pic{
   
-    margin-bottom: 15%;
-    margin-left: 5%;    
+    margin: 10%;  
+    margin-left: 15%;
 }
 .caption{
-    margin-right: 20%;    
+    margin-right: 10%;  
+    
+    
 }
 
 .nav-link{
     font-size: x-large;  
     letter-spacing: 0.15em;
-    
 }
+
 .name{
     font-size: 2em;
     letter-spacing: 0.15em;
@@ -67,4 +70,13 @@ hr.style1{
   top: 100%; 
   right: 0;
   margin-left: -1em; /* More to the left */
+}
+.container-fluid{
+    margin-top: 5.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+}
+
+.about{
+    min-width: 5em;
 }

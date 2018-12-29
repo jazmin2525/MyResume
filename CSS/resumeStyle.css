@@ -7,22 +7,23 @@ a{
     text-decoration: underline;   
 }
 .skillset{
-    margin-left: 0.5rem;
-    margin-bottom: 0.5rem;
+    margin-left: 0.15em;
+    margin-bottom: 0.15em;
 }
 .headline{
     font-size: 1.10em;
     font-weight: bold;
     letter-spacing: 2px;
-    padding-bottom: 1rem;
-    margin-left: 1rem;
-    margin-top: 1rem;
+    padding-bottom: 1em;
+    margin-left: 1em;
+    margin-top: 1em;
     
 }
 
 .title{
     font-weight: bold;  
-    margin: 1em;
+    margin-top: 1.5em;
+    
 }
 
 .link{
@@ -32,7 +33,7 @@ a{
 }
 .lang{
 
-    margin-left: 2rem;  
+    margin-left: 2em;  
 }
 .pic{
   
@@ -47,7 +48,7 @@ a{
 
 .nav-link{
     font-size: x-large;  
-    letter-spacing: 0.15rem;
+    letter-spacing: 0.15em;
 }
 
 .name{
